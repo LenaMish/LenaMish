@@ -15,7 +15,7 @@
 :woman_technologist: About Me :
     
 - I'm a Junior Python Developer. :snake:
-- Currently, I'm improving my skills in Django and React :magic_wand:
+- Currently, I'm improving my skills in FastAPI and Dajngo:magic_wand:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
