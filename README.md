@@ -14,7 +14,7 @@
 </div>
 :woman_technologist: About Me :
     
-- I'm a Junior Python Developer. :snake:
+- I'm a Python Developer. :snake:
 - Currently, I'm improving my skills in FastAPI and Dajngo :magic_wand:
 
 ### :hammer_and_wrench: Languages and Tools :
